@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="YYYY-MM-DD hh:mm">
+  <shop>
+    <name>Electronics shop</name>
+    <company>Anykka_electronics</company>
+    <url>https://anykka_electronics.ru/</url>
+    <categories>
+      <category id="90401">Телефоны</category>
+      <category id="198118" parentId="90401">iPhone</category>
+      <category id="286226" parentId="198118">iPhone 13 128гб</category>
+      <category id="286227" parentId="198118">iPhone 13 256гб</category>
+      <category id="286228" parentId="198118">iPhone 14 128гб</category>
+      <category id="462446" parentId="198118">iPhone 15 128гб</category>
+      <category id="462447" parentId="198118">iPhone 15 256гб</category>
+      <category id="462448" parentId="198118">iPhone 15 512гб</category>
+      <category id="462449" parentId="198118">iPhone 15 Pro 128гб</category>
+      <category id="462450" parentId="198118">iPhone 15 Pro 256гб</category>
+      <category id="462451" parentId="198118">iPhone 15 Pro 512гб</category>
+      <category id="824802" parentId="198118">iPhone 15 Pro Max 256гб</category>
+      <category id="824803" parentId="198118">iPhone 15 Pro Max 512гб</category>
+      <category id="824804" parentId="198118">iPhone 15 Pro Max 1тб</category>
+      ...
+    </categories>
+    <offers>
+      <offer id="648287" parentId="286226">
+        <name>iPhone 13 128</name>
+        <price>52300</price>
+        <categoryId>286226</categoryId>
+        <picture>https://fdn.gsmarena.com/imgroot/reviews/21/apple-iphone-13/lifestyle/-1024w2/gsmarena_001.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059012bb2-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059012bb-max-350.jpg</picture>
+        ...
+        <oldprice>61000</oldprice>
+        <description>iPhone 13 оснащен выразительным 6,1-дюймовым дисплеем Super Retina HD с разрешением 1080 x 2536 пикселей, обеспечивая яркий и поглощающий визуальный опыт. Устройство работает на процессоре Apple A15 Bionic, который обеспечивает быстродействие и эффективное управление мощностью.</description>
+<shortDescription>Белый iPhone 13 128гб</shortDescription>
+        <quantityInStock>26</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648288" parentId="286226">
+        <name>iPhone 13 128гб</name>
+        <price>52300</price>
+        <categoryId>286226</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059011bb2-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059011bb1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059011bb-max-350.jpg</picture>
+        ...
+        <oldprice>61000</oldprice>
+        <description>iPhone 13 оснащен выразительным 6,1-дюймовым дисплеем Super Retina HD с разрешением 1080 x 2536 пикселей, обеспечивая яркий и поглощающий визуальный опыт. Устройство работает на процессоре Apple A15 Bionic, который обеспечивает быстродействие и эффективное управление мощностью.</description>
+<shortDescription>Черный iPhone 13 128гб</shortDescription>
+        <quantityInStock>26</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648289" parentId="286226">
+        <name>iPhone 13 128гб</name>
+        <price>52300</price>
+        <categoryId>286226</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059015bb2-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059015bb-max-350.jpg</picture>
+        ...
+        <oldprice>61000</oldprice>
+        <description>iPhone 13 оснащен выразительным 6,1-дюймовым дисплеем Super Retina HD с разрешением 1080 x 2536 пикселей, обеспечивая яркий и поглощающий визуальный опыт. Устройство работает на процессоре Apple A15 Bionic, который обеспечивает быстродействие и эффективное управление мощностью.</description>
+<shortDescription>Синий iPhone 13 128гб</shortDescription>
+        <quantityInStock>16</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648291" parentId="286226">
+        <name>iPhone 13 128гб</name>
+        <price>63300</price>
+        <categoryId>286226</categoryId>
+        <picture>https://fdn.gsmarena.com/imgroot/reviews/21/apple-iphone-13/lifestyle/-1024w2/gsmarena_001.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059012bb2-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059012bb-max-350.jpg</picture>
+        ...
+        <oldprice>71000</oldprice>
+        <description>iPhone 13 оснащен выразительным 6,1-дюймовым дисплеем Super Retina HD с разрешением 1080 x 2536 пикселей, обеспечивая яркий и поглощающий визуальный опыт. Устройство работает на процессоре Apple A15 Bionic, который обеспечивает быстродействие и эффективное управление мощностью.</description>
+<shortDescription>Белый iPhone 13 256гб</shortDescription>
+        <quantityInStock>26</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648290" parentId="286226">
+        <name>iPhone 13 256гб</name>
+        <price>63300</price>
+        <categoryId>198118</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059015bb2-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059015bb-max-350.jpg</picture>
+        ...
+        <oldprice>71000</oldprice>
+        <description>iPhone 13 оснащен выразительным 6,1-дюймовым дисплеем Super Retina HD с разрешением 1080 x 2536 пикселей, обеспечивая яркий и поглощающий визуальный опыт. Устройство работает на процессоре Apple A15 Bionic, который обеспечивает быстродействие и эффективное управление мощностью.</description>
+<shortDescription>Синий iPhone 256гб</shortDescription>
+        <quantityInStock>20</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648292" parentId="286227">
+        <name>iPhone 13</name>
+        <price>63300</price>
+        <categoryId>286227</categoryId>
+        <picture>https://static.insales-cdn.com/r/UzIyG1uPvXQ/rs:fit:550:550:1/plain/images/products/1/8185/764805113/iPhone-15-Pro-Black-Titanium.jpg@webp</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059011bb-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/13%20mini/30059011bb2-max-350.jpg</picture>
+        ...
+        <oldprice>71000</oldprice>
+        <description>iPhone 13 оснащен выразительным 6,1-дюймовым дисплеем Super Retina HD с разрешением 1080 x 2536 пикселей, обеспечивая яркий и поглощающий визуальный опыт. Устройство работает на процессоре Apple A15 Bionic, который обеспечивает быстродействие и эффективное управление мощностью.</description>
+<shortDescription>Черный iPhone 13 256гб</shortDescription>
+        <quantityInStock>16</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648200" parentId="286228">
+        <name>iPhone 14</name>
+        <price>65300</price>
+        <categoryId>286228</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/14%20plus/14blue1-max-700.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/14%20plus/14blue2-max-700.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/14%20plus/14blue-max-700.jpg</picture>
+        ...
+        <oldprice>78000</oldprice>
+        <description>iPhone 14 - это седьмой поколения смартфона Apple, который предлагает улучшенную производительность и долговечность благодаря более мощному процессору и новой батарее. iPhone 14 также имеет впечатляющую камеру и возможностью записи видео в формате 4K и поддержкой функции Portrait Mode для создания профессиональных портретных фотографий</description>
+<shortDescription>Синий iPhone 14 128гб</shortDescription>
+        <quantityInStock>20</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648201" parentId="462446">
+        <name>iPhone 15 128гб</name>
+        <price>65965</price>
+        <categoryId>462446</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue2-max-350.jpg</picture>
+        ...
+        <oldprice>71700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 128 ГБ, Голубой, nano SIM (физические)</shortDescription>
+        <quantityInStock>28</quantityInStock>
+        <param name="Цвет">Голубой</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648202" parentId="462446">
+        <name>iPhone 15 128гб</name>
+        <price>65965</price>
+        <categoryId>462446</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green2-max-350.jpg</picture>
+        ...
+        <oldprice>71700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 128 ГБ, Зеленый, nano SIM (физические)</shortDescription>
+        <quantityInStock>42</quantityInStock>
+        <param name="Цвет">Зеленый</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648203" parentId="462446">
+        <name>iPhone 15 128гб</name>
+        <price>65965</price>
+        <categoryId>462446</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black2-max-350.jpg</picture>
+        ...
+        <oldprice>71700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 128 ГБ, черный, nano SIM (физические)</shortDescription>
+        <quantityInStock>32</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648204" parentId="462446">
+        <name>iPhone 15 128гб</name>
+        <price>65965</price>
+        <categoryId>462446</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink2-max-350.jpg</picture>
+        ...
+        <oldprice>71700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 128 ГБ, Розовый, nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648301" parentId="462447">
+        <name>iPhone 15 256гб</name>
+        <price>69995</price>
+        <categoryId>462447</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue2-max-350.jpg</picture>
+        ...
+        <oldprice>75700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 256 ГБ, Голубой, nano SIM (физические)</shortDescription>
+        <quantityInStock>28</quantityInStock>
+        <param name="Цвет">Голубой</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648402" parentId="462447">
+        <name>iPhone 15 256гб</name>
+        <price>69965</price>
+        <categoryId>462447</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green2-max-350.jpg</picture>
+        ...
+        <oldprice>75700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 256 ГБ, Зеленый, nano SIM (физические)</shortDescription>
+        <quantityInStock>42</quantityInStock>
+        <param name="Цвет">Зеленый</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648503" parentId="462447">
+        <name>iPhone 15 256гб</name>
+        <price>69965</price>
+        <categoryId>462447</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black2-max-350.jpg</picture>
+        ...
+        <oldprice>75700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 256 ГБ, черный, nano SIM (физические)</shortDescription>
+        <quantityInStock>32</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648604" parentId="462447">
+        <name>iPhone 15 256гб</name>
+        <price>69965</price>
+        <categoryId>462447</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink2-max-350.jpg</picture>
+        ...
+        <oldprice>75700</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 256 ГБ, Розовый, nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648311" parentId="462448">
+        <name>iPhone 15 512гб</name>
+        <price>85995</price>
+        <categoryId>462448</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-blue2-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 512 ГБ, Голубой, nano SIM (физические)</shortDescription>
+        <quantityInStock>28</quantityInStock>
+        <param name="Цвет">Голубой</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="648412" parentId="462448">
+        <name>iPhone 15 512гб</name>
+        <price>85965</price>
+        <categoryId>462448</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-green2-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 512 ГБ, Зеленый, nano SIM (физические)</shortDescription>
+        <quantityInStock>42</quantityInStock>
+        <param name="Цвет">Зеленый</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="648513" parentId="462448">
+        <name>iPhone 15 512гб</name>
+        <price>85965</price>
+        <categoryId>462448</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-black2-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 512 ГБ, черный, nano SIM (физические)</shortDescription>
+        <quantityInStock>32</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="648614" parentId="462448">
+        <name>iPhone 15 512гб</name>
+        <price>85965</price>
+        <categoryId>462448</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20plus/15-plus-pink2-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhone 15 - это мощный и стильный смартфон, который с радостью станет вашим спутником в любом уголке мира. С его уникальной системой камер Super Retina XDR, мощным процессором A15 Bionic и резко увеличенной батареей, вы сможете наслаждаться высочайшим качеством изображения и работать эффективно в течение дня без остановки</description>
+<shortDescription>Apple iPhone 15 512 ГБ, Розовый, nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Розовый</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="548615" parentId="462449">
+        <name>iPhone 15 Pro 128гб</name>
+        <price>86965</price>
+        <categoryId>462449</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white3-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 128 ГБ, белый титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="548616" parentId="462449">
+        <name>iPhone 15 Pro 128гб</name>
+        <price>86965</price>
+        <categoryId>462449</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v3-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 128 ГБ, черный титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="548617" parentId="462449">
+        <name>iPhone 15 Pro 128гб</name>
+        <price>86965</price>
+        <categoryId>462449</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black3-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 128 ГБ, синий титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="548618" parentId="462449">
+        <name>iPhone 15 Pro 128гб</name>
+        <price>86965</price>
+        <categoryId>462449</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey3-max-350.jpg</picture>
+        ...
+        <oldprice>91965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 128 ГБ, титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Серый</param>
+        <param name="Размер">128гб</param>
+      </offer>
+      <offer id="648616" parentId="462450">
+        <name>iPhone 15 Pro 256гб</name>
+        <price>91965</price>
+        <categoryId>462450</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white3-max-350.jpg</picture>
+        ...
+        <oldprice>98965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 256 ГБ, белый титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648617" parentId="462450">
+        <name>iPhone 15 Pro 256гб</name>
+        <price>91965</price>
+        <categoryId>462449</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v3-max-350.jpg</picture>
+        ...
+        <oldprice>98965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 256 ГБ, черный титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648618" parentId="462450">
+        <name>iPhone 15 Pro 256гб</name>
+        <price>91965</price>
+        <categoryId>462450</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black3-max-350.jpg</picture>
+        ...
+        <oldprice>98965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 256 ГБ, синий титан nano SIM (физические)</shortDescription>
+        <quantityInStock>47</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648619" parentId="462450">
+        <name>iPhone 15 Pro 256гб</name>
+        <price>91965</price>
+        <categoryId>462450</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey3-max-350.jpg</picture>
+        ...
+        <oldprice>98965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 256 ГБ, титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Серый</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="648620" parentId="462451">
+        <name>iPhone 15 Pro 512гб</name>
+        <price>110965</price>
+        <categoryId>462451</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 512 ГБ, белый титан nano SIM (физические)</shortDescription>
+        <quantityInStock>54</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="648621" parentId="462451">
+        <name>iPhone 15 Pro 512гб</name>
+        <price>110965</price>
+        <categoryId>462451</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 512 ГБ, черный титан nano SIM (физические)</shortDescription>
+        <quantityInStock>49</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="648622" parentId="462451">
+        <name>iPhone 15 Pro 512гб</name>
+        <price>110965</price>
+        <categoryId>462451</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 512 ГБ, синий титан nano SIM (физические)</shortDescription>
+        <quantityInStock>47</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="648623" parentId="462451">
+        <name>iPhone 15 Pro 512гб</name>
+        <price>110965</price>
+        <categoryId>462451</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro 512 ГБ, титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Серый</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="111111" parentId="824802">
+        <name>iPhone 15 Pro Max 256гб</name>
+        <price>108500</price>
+        <categoryId>824802</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 256 ГБ, белый титан nano SIM (физические)</shortDescription>
+        <quantityInStock>54</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="111112" parentId="824802">
+        <name>iPhone 15 Pro Max 256гб</name>
+        <price>108500</price>
+        <categoryId>824802</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 256 ГБ, черный титан nano SIM (физические)</shortDescription>
+        <quantityInStock>49</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="111113" parentId="824802">
+        <name>iPhone 15 Pro Max 256гб</name>
+        <price>108500</price>
+        <categoryId>824802</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 256 ГБ, синий титан nano SIM (физические)</shortDescription>
+        <quantityInStock>47</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="111114" parentId="824802">
+        <name>iPhone 15 Pro Max 256гб</name>
+        <price>108500</price>
+        <categoryId>824802</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey3-max-350.jpg</picture>
+        ...
+        <oldprice>118965</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 256 ГБ, титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Серый</param>
+        <param name="Размер">256гб</param>
+      </offer>
+      <offer id="111115" parentId="824803">
+        <name>iPhone 15 Pro Max 512гб</name>
+        <price>119000</price>
+        <categoryId>824803</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white3-max-350.jpg</picture>
+        ...
+        <oldprice>125000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 512 ГБ, белый титан nano SIM (физические)</shortDescription>
+        <quantityInStock>56</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="111116" parentId="824803">
+        <name>iPhone 15 Pro Max 512гб</name>
+        <price>119000</price>
+        <categoryId>824803</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v3-max-350.jpg</picture>
+        ...
+        <oldprice>125000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 512 ГБ, черный титан nano SIM (физические)</shortDescription>
+        <quantityInStock>49</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="111117" parentId="824803">
+        <name>iPhone 15 Pro Max 512гб</name>
+        <price>119000</price>
+        <categoryId>824803</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black3-max-350.jpg</picture>
+        ...
+        <oldprice>125000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 512 ГБ, синий титан nano SIM (физические)</shortDescription>
+        <quantityInStock>47</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="111118" parentId="824803">
+        <name>iPhone 15 Pro Max 512гб</name>
+        <price>119000</price>
+        <categoryId>824803</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey3-max-350.jpg</picture>
+        ...
+        <oldprice>125000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 512 ГБ, титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Серый</param>
+        <param name="Размер">512гб</param>
+      </offer>
+      <offer id="111119" parentId="824804">
+        <name>iPhone 15 Pro Max 1тб</name>
+        <price>138000</price>
+        <categoryId>824804</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-white3-max-350.jpg</picture>
+        ...
+        <oldprice>145000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 1 ТБ, белый титан nano SIM (физические)</shortDescription>
+        <quantityInStock>16</quantityInStock>
+        <param name="Цвет">Белый</param>
+        <param name="Размер">1тб</param>
+      </offer>
+      <offer id="111120" parentId="824804">
+        <name>iPhone 15 Pro Max 1тб</name>
+        <price>138000</price>
+        <categoryId>824804</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-v3-max-350.jpg</picture>
+        ...
+        <oldprice>145000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 1 ТБ, черный титан nano SIM (физические)</shortDescription>
+        <quantityInStock>49</quantityInStock>
+        <param name="Цвет">Черный</param>
+        <param name="Размер">1тб</param>
+      </offer>
+      <offer id="111121" parentId="824804">
+        <name>iPhone 15 Pro Max 1ТБ</name>
+        <price>138000</price>
+        <categoryId>824804</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-black3-max-350.jpg</picture>
+        ...
+        <oldprice>145000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 1ТБ, синий титан nano SIM (физические)</shortDescription>
+        <quantityInStock>47</quantityInStock>
+        <param name="Цвет">Синий</param>
+        <param name="Размер">1ТБ</param>
+      </offer>
+      <offer id="111122" parentId="824804">
+        <name>iPhone 15 Pro Max 1тб</name>
+        <price>138000</price>
+        <categoryId>824804</categoryId>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey1-max-350.jpg</picture>
+        <picture>https://ishopmsk.ru/image/cache/catalog/Add/15%20pro%20max/iphone-15-pro-max-grey3-max-350.jpg</picture>
+        ...
+        <oldprice>145000</oldprice>
+        <description>iPhones 15 Pro Max - это новый высокопроизводительный смартфон с экраном Super Retina XDR, который обеспечивает пользователю необычно яркий и природный вид картинок, а также качественный звук thanks to его 7-диапазонным динамиком. iPhone 15 Pro также оборудован мощным процессором A17 Bionic, который обеспечивает быстрый запуск приложений и эффективную работу при задействовании ресурсов.</description>
+<shortDescription>Apple iPhone 15 Pro Max 1 ТБ, титан nano SIM (физические)</shortDescription>
+        <quantityInStock>44</quantityInStock>
+        <param name="Цвет">Серый</param>
+        <param name="Размер">1тб</param>
+      </offer>
+      ...
+    </offers>
+  </shop>
+</yml_catalog>

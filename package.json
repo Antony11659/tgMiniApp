@@ -1,0 +1,27 @@
+{
+  "name": "telegram_mini_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antony11659/tgMiniApp.git"
+  },
+  "author": "Ant Shur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antony11659/tgMiniApp/issues"
+  },
+  "homepage": "https://github.com/Antony11659/tgMiniApp#readme",
+  "dependencies": {
+    "fastify": "^5.0.0",
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
