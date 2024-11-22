@@ -19,7 +19,8 @@
   "homepage": "https://github.com/Antony11659/tgMiniApp#readme",
   "dependencies": {
     "fastify": "^5.0.0",
-    "node-telegram-bot-api": "^0.66.0"
+    "node-telegram-bot-api": "^0.66.0",
+    "pg": "^8.13.1"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
