@@ -40,4 +40,4 @@ const selectUser = async (tgId) => {
   }
 };
 
-module.exports = { selectUser };
+module.exports = { selectUser, insertUser };
