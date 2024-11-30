@@ -1,4 +1,5 @@
 const { selectUser, insertUser } = require("./server/index");
+const { Lot } = require("./lib/messages");
 
 const TelegramBot = require("node-telegram-bot-api");
 
@@ -7,22 +8,51 @@ const token = "7608024573:AAHMupDrsYE2TSY0CE1-N0AgAH3goZ_uCSs";
 // Create a bot that uses 'polling' to fetch new updates
 const bot = new TelegramBot(token, { polling: true });
 const channelId = -1002356073219;
+const myChannel = "https://t.me/test_anykka_electronics";
 const myId = 7431775637;
+const markId = 7431775638;
+const maxId = 7431775639;
 
-bot.onText(/\/start(.*)/, (msg, match) => {
+bot.onText(/\/start(.*)/, async (msg, match) => {
   const userId = msg.from.id;
+  const userName = msg.chat.first_name;
   const chatId = msg.chat.id;
+  const userStatus = (await bot.getChatMember(channelId, msg.from.id)).status;
   const invitation = match[1].trim();
-  console.log(invitation);
+  const friendId = Number(invitation);
+  const isUserSupporter = friendId;
 
-  const opts = {
-    reply_markup: {
-      keyboard: [["participate"]],
-      resize_keyboard: true,
-    },
-  };
-
-  bot.sendMessage(chatId, "Hello, choose an option!", opts);
+  if (
+    // don't forget to delete admin and creator
+    userStatus === "administrator" ||
+    userStatus === "creator" ||
+    userStatus === "member"
+  ) {
+    if (invitation === "participator") {
+      bot.sendMessage(
+        chatId,
+        `Send your friend this link https://t.me/anykka_test_bot?start=${userId}`
+      );
+    } else if (isUserSupporter) {
+      const friend = await selectUser(friendId);
+      const friendName = friend[0].username;
+      const userHasSubscribedBefore = (await selectUser(userId).length) > 0; // check if a user who clicked the link had been subscribed before.
+      if (userHasSubscribedBefore) {
+        bot.sendMessage(
+          chatId,
+          `Sorry you cant support your fried ${friendName} because you are or you were subscribed`
+        );
+      } else {
+        bot.sendMessage(
+          chatId,
+          `You supported your friend ${friendName} successfully`
+        );
+        bot.sendMessage(friendId, `You was supported by ${userName}`);
+      }
+    }
+  } else {
+    bot.sendMessage(chatId, `Subscribe this channel ${myChannel}`);
+  }
 });
 
 bot.onText(/\/newLot/, async (msg) => {
@@ -31,18 +61,14 @@ bot.onText(/\/newLot/, async (msg) => {
       inline_keyboard: [
         [
           {
-            text: "participate",
-            url: "https://t.me/anykka_test_bot?start=hello'",
+            text: Lot.participate,
+            url: `https://t.me/anykka_test_bot?start=participator`,
           },
         ],
       ],
     },
   };
-  await bot.sendMessage(
-    channelId,
-    "Hello to participate subscribe the channel https://t.me/test_anykka_electronics and the put the button https://t.me/anykka_test_bot?start=hello",
-    options
-  );
+  await bot.sendMessage(channelId, Lot.text, options);
 });
 
 // bot.on("message", async (msg) => {
